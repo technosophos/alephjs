@@ -1,0 +1,19 @@
+{
+  "name": "aleph-js",
+  "description": "Functional asynchronous library.",
+  "keywords": ["functional", "iteration","each","recusion"],
+  "version": "0.0.1",
+  "author": "Matt Butcher <matthew.butcher@hp.com>",
+  "contributors": [
+    {"name": "Matt Butcher", "email": "matthew.butcher@hp.com"},
+    {"name": "Matt Farina", "email": "matthew.farina@hp.com"}
+  ],
+  "repository": "git://github.com/technosophos/Aleph-JS",
+  "main": "index",
+  "scripts": {
+    "test": "make test"
+  },
+  "devDependencies": {
+  },
+  "engines": {"node": ">= 0.4.9 < 1.0.0"}
+}
