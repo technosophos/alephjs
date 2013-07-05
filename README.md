@@ -1,6 +1,7 @@
 # Aleph: An asynchronous iteration libary
 
-**This library was an experiment, and is not currently maintained.**
+**This library was an experiment, and is not currently maintained.** If
+ you are looking for similar tools, try `async.js`.
 
 This package contains utility functions primarily oriented around
 asynchronous recursive iteration.
