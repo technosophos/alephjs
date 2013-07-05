@@ -1,5 +1,7 @@
 # Aleph: An asynchronous iteration libary
 
+**This library was an experiment, and is not currently maintained.**
+
 This package contains utility functions primarily oriented around
 asynchronous recursive iteration.
 
